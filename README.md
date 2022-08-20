@@ -10,5 +10,5 @@
 
 [image folder](BDL-publishing-authoring-main/images/)
 
-[iamge](![logo](https://user-images.githubusercontent.com/111491129/185768664-d5cbf5e4-10e2-4815-840e-f94f8acad784.png)
-)
+![logo](https://user-images.githubusercontent.com/111491129/185768664-d5cbf5e4-10e2-4815-840e-f94f8acad784.png)
+
